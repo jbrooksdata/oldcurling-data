@@ -1,0 +1,215 @@
+event_id,event_name,year,gender
+218,GSOC Champions Cup,2023,women
+219,GSOC Champions Cup,2023,men
+216,GSOC Players Championship,2023,women
+217,GSOC Players Championship,2023,men
+215,World Championships,2023,men
+214,World Championships,2023,women
+208,U Sports Championships,2023,men
+209,U Sports Championships,2023,women
+210,CCAA Championships,2023,men
+211,CCAA Championships,2023,women
+205,Brier,2023,men
+206,Junior World Championships,2023,women
+207,Junior World Championships,2023,men
+204,Scotties,2023,women
+212,World University Games,2023,men
+213,World University Games,2023,women
+202,Canadian U18 Championships,2023,men
+203,Canadian U18 Championships,2023,women
+200,GSOC Canadian Open,2023,women
+201,GSOC Canadian Open,2023,men
+198,GSOC Masters,2022,women
+199,GSOC Masters,2022,men
+196,European Championships,2022,men
+197,European Championships,2022,women
+194,Pan Continental Championship,2022,women
+195,Pan Continental Championship,2022,men
+190,GSOC Tour Challenge Tier 1,2022,men
+191,GSOC Tour Challenge Tier 1,2022,women
+192,GSOC Tour Challenge Tier 2,2022,men
+193,GSOC Tour Challenge Tier 2,2022,women
+187,GSOC National,2022,men
+189,GSOC National,2022,women
+186,Pointsbet Invitational,2022,women
+188,Pointsbet Invitational,2022,men
+184,Baden Masters,2022,men
+175,Junior World Championships,2022,men
+176,Junior World Championships,2022,women
+157,GSOC Champions Cup,2022,women
+158,GSOC Champions Cup,2022,men
+95,GSOC Players Championship,2022,women
+96,GSOC Players Championship,2022,men
+94,World Championships,2022,men
+92,Canadian Under-21 Championships,2022,men
+93,Canadian Under-21 Championships,2022,women
+91,World Championships,2022,women
+90,Brier,2022,men
+88,Olympics,2022,women
+87,Olympics,2022,men
+89,Scotties,2022,women
+82,Manitoba Scotties,2021,women
+83,Olympic Qualification Event,2021,men
+84,Olympic Qualification Event,2021,women
+78,Canadian Olympic Trials,2021,men
+79,Canadian Olympic Trials,2021,women
+76,European Championships,2021,men
+77,European Championships,2021,women
+75,GSOC National,2021,women
+80,GSOC National,2021,men
+73,Canadian Olympic Pre-Trials,2021,men
+74,Canadian Olympic Pre-Trials,2021,women
+72,GSOC Masters,2021,women
+81,GSOC Masters,2021,men
+3,World Championships,2021,women
+45,GSOC Players Championship,2021,women
+104,GSOC Players Championship,2021,men
+85,GSOC Champions Cup,2021,women
+86,GSOC Champions Cup,2021,men
+2,World Championships,2021,men
+34,Brier,2021,men
+50,Scotties,2021,women
+51,U Sports Championships,2020,women
+133,U Sports Championships,2020,men
+33,Brier,2020,men
+142,Brier Wild Card Game,2020,men
+71,Scotties,2020,women
+39,Junior World Championships,2020,men
+40,Junior World Championships,2020,women
+140,Scotties Wild Card Game,2020,women
+42,Manitoba Championships,2020,men
+44,Manitoba Scotties,2020,women
+117,Canadian Juniors,2020,men
+123,Canadian Juniors,2020,women
+36,Canada Cup,2019,men
+37,Canada Cup,2019,women
+69,European Championships,2019,men
+70,European Championships,2019,women
+67,Pacific Asia Championships,2019,men
+68,Pacific Asia Championships,2019,women
+10,Curling World Cup Final,2019,women
+136,Curling World Cup Final,2019,men
+22,World Championships,2019,men
+25,World Championships,2019,women
+32,Brier,2019,men
+143,Brier Wild Card Game,2019,men
+49,Scotties,2019,women
+19,Junior World Championships,2019,women
+99,Junior World Championships,2019,men
+138,Scotties Wild Card Game,2019,women
+41,Manitoba Championships,2019,men
+9,Curling World Cup Leg 3,2019,women
+135,Curling World Cup Leg 3,2019,men
+43,Manitoba Scotties,2019,women
+118,Canadian Juniors,2019,men
+124,Canadian Juniors,2019,women
+8,Curling World Cup Leg 2,2018,women
+35,Canada Cup,2018,men
+111,Canada Cup,2018,women
+134,Curling World Cup Leg 2,2018,men
+13,European Championships,2018,women
+103,European Championships,2018,men
+15,Pacific Asia Championships,2018,women
+116,Pacific Asia Championships,2018,men
+7,Curling World Cup Leg 1,2018,women
+137,Curling World Cup Leg 1,2018,men
+21,World Championships,2018,men
+153,U Sports Championships,2018,men
+154,U Sports Championships,2018,women
+155,CCAA Championships,2018,men
+156,CCAA Championships,2018,women
+24,World Championships,2018,women
+31,Brier,2018,men
+18,Junior World Championships,2018,women
+100,Junior World Championships,2018,men
+144,Brier Wild Card Game,2018,men
+26,Olympics,2018,women
+106,Olympics,2018,men
+48,Scotties,2018,women
+177,Manitoba Championships,2018,men
+139,Scotties Wild Card Game,2018,women
+119,Canadian Juniors,2018,men
+125,Canadian Juniors,2018,women
+178,Manitoba Scotties,2018,women
+46,Roar Of The Rings,2017,men
+64,Olympic Qualification Event,2017,women
+65,Olympic Qualification Event,2017,men
+110,Roar Of The Rings,2017,women
+12,European Championships,2017,women
+102,European Championships,2017,men
+141,Canadian Olympic Pre-Trials,2017,men
+152,Canadian Olympic Pre-Trials,2017,women
+14,Pacific Asia Championships,2017,women
+115,Pacific Asia Championships,2017,men
+174,Everest Challenge,2017,mixed
+145,Canadian U-18 Championships,2017,men
+146,Canadian U-18 Championships,2017,women
+20,World Championships,2017,men
+23,World Championships,2017,women
+150,CIS Championships,2017,men
+151,CIS Championships,2017,women
+30,Brier,2017,men
+47,Scotties,2017,women
+98,Junior World Championships,2017,men
+16,Junior World Championships,2017,women
+28,World University Games,2017,women
+132,World University Games,2017,men
+120,Canadian Juniors,2017,men
+126,Canadian Juniors,2017,women
+113,Canada Cup,2016,women
+114,Canada Cup,2016,men
+11,European Championships,2016,women
+101,European Championships,2016,men
+183,Canadian Mixed,2016,mixed
+5,World Championships,2016,men
+173,World Championships,2016,women
+148,CIS Championships,2016,men
+149,CIS Championships,2016,women
+4,Junior World Championships,2016,women
+29,Brier,2016,men
+97,Junior World Championships,2016,men
+130,Scotties,2016,women
+121,Canadian Juniors,2016,men
+122,Canadian Juniors,2016,women
+127,Canada Cup,2015,women
+131,Canada Cup,2015,men
+58,European Championships,2015,men
+59,European Championships,2015,women
+182,Canadian Mixed,2015,mixed
+53,World Championships,2015,women
+54,Junior World Championships,2015,men
+55,Junior World Championships,2015,women
+56,European Championships,2014,men
+57,European Championships,2014,women
+181,Canadian Mixed,2014,mixed
+52,World Championships,2014,men
+107,Olympics,2014,men
+62,Olympics,2014,women
+63,Junior World Championships,2013,women
+105,Junior World Championships,2013,men
+172,Brier,2013,men
+164,Scotties,2013,women
+171,Brier,2012,men
+165,Scotties,2012,women
+170,Brier,2011,men
+166,Scotties,2011,women
+167,Brier,2010,men
+108,Olympics,2010,men
+61,Olympics,2010,women
+168,Brier,2009,men
+222,Junior World Championships,2009,men
+223,Junior World Championships,2009,women
+169,Brier,2008,men
+160,Brier,2007,men
+161,Brier,2006,men
+109,Olympics,2006,men
+66,Olympics,2006,women
+159,Brier,2005,men
+220,World Championships,2004,men
+221,World Championships,2004,women
+128,Brier,2004,men
+129,Brier,2003,men
+162,Brier,2002,men
+180,Olympics,2002,men
+179,Olympics,2002,women
+163,Brier,2001,men
