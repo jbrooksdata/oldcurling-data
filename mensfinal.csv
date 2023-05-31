@@ -1,0 +1,161 @@
+team,end,end_shot,player,task,turn,points,chance_perfect,chance_zero,expected_points,pre_WP,WP
+United States of America,1,1,John Landsteiner,Draw,CCW,4,0.833214,0.0315287,3.70019,0.3773,0.3793
+Sweden,1,2,Christoffer Sundgren,Take-out,CCW,2,0.829466,0.0398453,3.64005,0.3793,0.3887
+United States of America,1,3,John Landsteiner,Draw,CCW,4,0.71212,0.0647889,3.55145,0.3887,0.3924
+Sweden,1,4,Christoffer Sundgren,Take-out,CCW,4,0.775825,0.0619786,3.45083,0.3924,0.3868
+United States of America,1,5,Matt Hamilton,Take-out,CCW,4,0.813692,0.0300393,3.56873,0.3868,0.3885
+Sweden,1,6,Rasmus Wranå,Take-out,CCW,4,0.813622,0.025341,3.46468,0.3885,0.3884
+United States of America,1,7,Matt Hamilton,Take-out,CCW,4,0.818075,0.0214646,3.62293,0.3884,0.3886
+Sweden,1,8,Rasmus Wranå,Take-out,CCW,4,0.781163,0.0230169,3.54876,0.3886,0.3862
+United States of America,1,9,Tyler George,Take-out,CCW,2,0.776275,0.0188988,3.59322,0.3862,0.3806
+Sweden,1,10,Oskar Eriksson,Draw,CW,4,0.78015,0.0769993,3.52921,0.3806,0.3751
+United States of America,1,11,Tyler George,Take-out,CCW,4,0.810796,0.0298246,3.57306,0.3751,0.3807
+Sweden,1,12,Oskar Eriksson,Take-out,CCW,4,0.804345,0.0132494,3.57413,0.3807,0.3798
+United States of America,1,13,John Shuster,Take-out,CCW,4,0.809827,0.0138738,3.5899,0.3798,0.3848
+Sweden,1,14,Niklas Edin,Take-out,CCW,4,0.832211,0.0132686,3.64315,0.3848,0.3817
+United States of America,1,15,John Shuster,Take-out,CCW,4,0.847133,0.0134123,3.69739,0.3817,0.3859
+Sweden,1,16,Niklas Edin,Clearing,CCW,4,0.897506,0.0214685,3.78366,0.3859,0.3759
+United States of America,2,1,John Landsteiner,Front,CW,4,0.83524,0.0457942,3.66518,0.3927,0.3947
+Sweden,2,2,Christoffer Sundgren,Front,CCW,4,0.748643,0.067233,3.69061,0.3947,0.3884
+United States of America,2,3,John Landsteiner,Draw,CCW,3,0.630136,0.0664884,3.41216,0.3884,0.3858
+Sweden,2,4,Christoffer Sundgren,Raise,CW,4,0.544949,0.111615,2.97608,0.3858,0.3815
+United States of America,2,5,Matt Hamilton,Take-out,CW,4,0.701273,0.128365,3.13751,0.3815,0.3867
+Sweden,2,6,Rasmus Wranå,Double,CW,4,0.54276,0.0463428,2.97615,0.3867,0.3839
+United States of America,2,7,Matt Hamilton,Take-out,CCW,4,0.749045,0.0767318,3.47718,0.3839,0.3834
+Sweden,2,8,Rasmus Wranå,Take-out,CW,4,0.763006,0.0738618,3.48392,0.3834,0.3782
+United States of America,2,9,Tyler George,Hit-roll,CCW,4,0.449786,0.0574529,3.22097,0.3782,0.3885
+Sweden,2,10,Oskar Eriksson,Hit-roll,CW,4,0.465602,0.0688192,3.16681,0.3885,0.3827
+United States of America,2,11,Tyler George,Hit-roll,CCW,4,0.45965,0.0672533,3.18465,0.3827,0.3947
+Sweden,2,12,Oskar Eriksson,Take-out,CCW,4,0.753134,0.0840125,3.33384,0.3947,0.3753
+United States of America,2,13,John Shuster,Take-out,CW,4,0.789583,0.0504988,3.51909,0.3753,0.3867
+Sweden,2,14,Niklas Edin,Draw,CCW,4,0.493519,0.0811419,3.0873,0.3867,0.3636
+United States of America,2,15,John Shuster,Promotion,CCW,0,0.502073,0.14539,2.61768,0.3636,0.2782
+Sweden,2,16,Niklas Edin,Draw,CCW,4,0.8736,0.0747468,3.62959,0.2782,0.2436
+Sweden,3,1,Christoffer Sundgren,Draw,CCW,4,0.833214,0.0315287,3.70019,0.2612,0.2593
+United States of America,3,2,John Landsteiner,Front,CW,4,0.874014,0.0488878,3.75056,0.2593,0.2622
+Sweden,3,3,Christoffer Sundgren,Guard,CCW,3,0.592259,0.0494256,3.30553,0.2622,0.2636
+United States of America,3,4,John Landsteiner,Raise,CCW,3,0.512295,0.109318,2.99038,0.2636,0.2696
+Sweden,3,5,Rasmus Wranå,Take-out,CCW,4,0.737948,0.101305,3.3576,0.2696,0.2607
+United States of America,3,6,Matt Hamilton,Double,CW,4,0.54276,0.0463428,2.97615,0.2607,0.2648
+Sweden,3,7,Rasmus Wranå,Draw,CCW,4,0.555989,0.0738446,3.27478,0.2648,0.2592
+United States of America,3,8,Matt Hamilton,Draw,CCW,0,0.514731,0.0918646,2.9631,0.2592,0.2493
+Sweden,3,9,Oskar Eriksson,Take-out,CW,4,0.728289,0.0841607,3.43643,0.2493,0.2474
+United States of America,3,10,Tyler George,Take-out,CW,4,0.7637,0.0794947,3.36901,0.2474,0.2607
+Sweden,3,11,Oskar Eriksson,Raise,CW,4,0.487891,0.0906191,3.01603,0.2607,0.2547
+United States of America,3,12,Tyler George,Double,CW,4,0.526212,0.0400116,3.00297,0.2547,0.261
+Sweden,3,13,Niklas Edin,Double,CW,4,0.552599,0.0492816,3.10268,0.261,0.25
+United States of America,3,14,John Shuster,Double,CW,2,0.514259,0.065372,2.86132,0.25,0.1958
+Sweden,3,15,Niklas Edin,Take-out,CCW,4,0.824366,0.0501817,3.63705,0.1958,0.208
+United States of America,3,16,John Shuster,Double,CW,4,0.572392,0.12488,2.47076,0.208,0.2761
+United States of America,4,1,John Landsteiner,Draw,CW,4,0.833214,0.0315287,3.70019,0.3757,0.3772
+Sweden,4,2,Christoffer Sundgren,Front,CCW,4,0.874014,0.0488878,3.75056,0.3772,0.381
+United States of America,4,3,John Landsteiner,Guard,CW,4,0.592259,0.0494256,3.30553,0.381,0.3861
+Sweden,4,4,Christoffer Sundgren,Draw,CCW,4,0.575532,0.112732,2.98561,0.3861,0.3822
+United States of America,4,5,Matt Hamilton,Draw,CCW,3,0.564903,0.0758319,3.18835,0.3822,0.3802
+Sweden,4,6,Rasmus Wranå,Draw,CCW,3,0.516503,0.0750331,3.05723,0.3802,0.3848
+United States of America,4,7,Matt Hamilton,Draw,CW,2,0.52688,0.0733725,3.15134,0.3848,0.3758
+Sweden,4,8,Rasmus Wranå,Raise,CW,4,0.530575,0.107304,2.88066,0.3758,0.372
+United States of America,4,9,Tyler George,Take-out,CCW,4,0.696876,0.113805,3.22949,0.372,0.3834
+Sweden,4,10,Oskar Eriksson,Take-out,CCW,4,0.727162,0.0964519,3.25197,0.3834,0.3768
+United States of America,4,11,Tyler George,Raise,CW,4,0.470881,0.102446,3.01943,0.3768,0.3948
+Sweden,4,12,Oskar Eriksson,Hit-roll,CCW,3,0.440143,0.0643653,3.19877,0.3948,0.4023
+United States of America,4,13,John Shuster,Raise,CW,4,0.492982,0.0881859,2.97971,0.4023,0.4289
+Sweden,4,14,Niklas Edin,Raise,CW,0,0.471229,0.131854,2.73138,0.4289,0.4893
+United States of America,4,15,John Shuster,Raise,CW,2,0.573294,0.0824414,3.10929,0.4893,0.4046
+Sweden,4,16,Niklas Edin,Raise,CW,1,0.636134,0.227543,2.68946,0.4046,0.5417
+United States of America,5,1,John Landsteiner,Draw,CCW,4,0.833214,0.0315287,3.70019,0.571,0.5721
+Sweden,5,2,Christoffer Sundgren,Front,CW,4,0.874014,0.0488878,3.75056,0.5721,0.571
+United States of America,5,3,John Landsteiner,Guard,CCW,4,0.592259,0.0494256,3.30553,0.571,0.5768
+Sweden,5,4,Christoffer Sundgren,Draw,CW,4,0.575532,0.112732,2.98561,0.5768,0.5723
+United States of America,5,5,Matt Hamilton,Draw,CW,3,0.564903,0.0758319,3.18835,0.5723,0.5664
+Sweden,5,6,Rasmus Wranå,Draw,CCW,2,0.516503,0.0750331,3.05723,0.5664,0.5785
+United States of America,5,7,Matt Hamilton,Raise,CCW,2,0.53097,0.106961,2.89263,0.5785,0.5579
+Sweden,5,8,Rasmus Wranå,Raise,CW,3,0.515018,0.101239,2.96929,0.5579,0.5589
+United States of America,5,9,Tyler George,Promotion,CW,4,0.505692,0.110632,2.95289,0.5589,0.5709
+Sweden,5,10,Oskar Eriksson,Draw,CW,2,0.491043,0.0812276,3.05241,0.5709,0.5827
+United States of America,5,11,Tyler George,Draw,CW,3,0.570159,0.0728854,3.15393,0.5827,0.5771
+Sweden,5,12,Oskar Eriksson,Double,CCW,2,0.523376,0.0685624,2.90124,0.5771,0.6254
+United States of America,5,13,John Shuster,Guard,CW,3,0.659567,0.0453332,3.51579,0.6254,0.6355
+Sweden,5,14,Niklas Edin,Draw,CCW,3,0.482675,0.109954,2.67541,0.6355,0.6144
+United States of America,5,15,John Shuster,Draw,CCW,0,0.531934,0.104115,2.90236,0.6144,0.4818
+Sweden,5,16,Niklas Edin,Draw,CCW,4,0.703388,0.22651,2.9828,0.4818,0.4262
+Sweden,6,1,Christoffer Sundgren,Draw,CCW,4,0.833214,0.0315287,3.70019,0.4333,0.433
+United States of America,6,2,John Landsteiner,Front,CCW,4,0.874014,0.0488878,3.75056,0.433,0.4354
+Sweden,6,3,Christoffer Sundgren,Draw,CCW,4,0.669696,0.0560227,3.55853,0.4354,0.4345
+United States of America,6,4,John Landsteiner,Take-out,CCW,4,0.696773,0.114179,3.16594,0.4345,0.4395
+Sweden,6,5,Rasmus Wranå,Clearing,CCW,4,0.825889,0.0434982,3.51652,0.4395,0.4348
+United States of America,6,6,Matt Hamilton,Guard,CW,3,0.742079,0.034637,3.54983,0.4348,0.4327
+Sweden,6,7,Rasmus Wranå,Double,CCW,2,0.501778,0.0588911,3.00673,0.4327,0.4529
+United States of America,6,8,Matt Hamilton,Take-out,CW,0,0.717313,0.0913957,3.39568,0.4529,0.4197
+Sweden,6,9,Oskar Eriksson,Hit-roll,CCW,4,0.548013,0.0594924,3.34487,0.4197,0.4101
+United States of America,6,10,Tyler George,Take-out,CW,4,0.75471,0.0857472,3.32221,0.4101,0.4273
+Sweden,6,11,Oskar Eriksson,Double,CW,4,0.529229,0.0387934,3.06868,0.4273,0.416
+United States of America,6,12,Tyler George,Draw,CW,4,0.563042,0.080694,3.16793,0.416,0.4495
+Sweden,6,13,Niklas Edin,Promotion,CCW,0,0.505511,0.132112,2.69367,0.4495,0.5207
+United States of America,6,14,John Shuster,Draw,CW,3,0.609751,0.0742735,3.23694,0.5207,0.5178
+Sweden,6,15,Niklas Edin,Hit-roll,CCW,3,0.491412,0.0693223,3.13097,0.5178,0.5288
+United States of America,6,16,John Shuster,Draw,CCW,4,0.782718,0.120527,3.33491,0.5288,0.5834
+United States of America,7,1,John Landsteiner,Front,CCW,4,0.83524,0.0457942,3.66518,0.5909,0.5923
+Sweden,7,2,Christoffer Sundgren,Front,CW,4,0.748643,0.067233,3.69061,0.5923,0.5866
+United States of America,7,3,John Landsteiner,Draw,CCW,4,0.630136,0.0664884,3.41216,0.5866,0.5906
+Sweden,7,4,Christoffer Sundgren,Raise,CCW,4,0.560759,0.100833,2.96709,0.5906,0.5873
+United States of America,7,5,Matt Hamilton,Take-out,CCW,0,0.701273,0.128365,3.13751,0.5873,0.5552
+Sweden,7,6,Rasmus Wranå,Draw,CW,3,0.599669,0.0849258,3.15037,0.5552,0.5629
+United States of America,7,7,Matt Hamilton,Double,CW,4,0.528816,0.059199,2.97539,0.5629,0.5717
+Sweden,7,8,Rasmus Wranå,Draw,CCW,0,0.528243,0.0832909,3.07692,0.5717,0.5985
+United States of America,7,9,Tyler George,Draw,CW,4,0.573099,0.0811677,3.17825,0.5985,0.6101
+Sweden,7,10,Oskar Eriksson,Clearing,CCW,4,0.856845,0.0365012,3.63437,0.6101,0.6013
+United States of America,7,11,Tyler George,Guard,CW,3,0.683778,0.0389013,3.47887,0.6013,0.5986
+Sweden,7,12,Oskar Eriksson,Raise,CCW,4,0.490094,0.138248,2.82107,0.5986,0.5749
+United States of America,7,13,John Shuster,Guard,CCW,4,0.626986,0.0525265,3.61134,0.5749,0.6306
+Sweden,7,14,Niklas Edin,Take-out,CCW,0,0.599302,0.189457,2.69322,0.6306,0.7018
+United States of America,7,15,John Shuster,Guard,CCW,4,0.687662,0.0512902,3.47009,0.7018,0.7311
+Sweden,7,16,Niklas Edin,Promotion,CCW,4,0.399247,0.471024,1.60437,0.7311,0.5722
+Sweden,8,1,Christoffer Sundgren,Front,CCW,4,0.83524,0.0457942,3.66518,0.6691,0.6691
+United States of America,8,2,John Landsteiner,Wick,CCW,0,0.579226,0.240971,2.5852,0.6691,0.6388
+Sweden,8,3,Christoffer Sundgren,Front,CCW,4,0.797608,0.0449485,3.57011,0.6388,0.6382
+United States of America,8,4,John Landsteiner,Draw,CW,4,0.61163,0.0780509,3.32547,0.6382,0.6439
+Sweden,8,5,Rasmus Wranå,Draw,CCW,3,0.564903,0.0758319,3.18835,0.6439,0.6376
+United States of America,8,6,Matt Hamilton,Clearing,CCW,4,0.86121,0.0364098,3.64945,0.6376,0.6457
+Sweden,8,7,Rasmus Wranå,Guard,CCW,4,0.738929,0.0380674,3.5441,0.6457,0.6393
+United States of America,8,8,Matt Hamilton,Clearing,CW,2,0.874438,0.0283963,3.73465,0.6393,0.6231
+Sweden,8,9,Oskar Eriksson,Guard,CCW,4,0.697037,0.0381654,3.55257,0.6231,0.6164
+United States of America,8,10,Tyler George,Raise,CCW,2,0.47339,0.158611,2.67404,0.6164,0.6023
+Sweden,8,11,Oskar Eriksson,Draw,CCW,2,0.609359,0.0688615,3.32653,0.6023,0.6237
+United States of America,8,12,Tyler George,Hit-roll,CCW,3,0.516996,0.0861568,3.20214,0.6237,0.6345
+Sweden,8,13,Niklas Edin,Draw,CCW,3,0.55715,0.0752184,3.13472,0.6345,0.6367
+United States of America,8,14,John Shuster,Hit-roll,CCW,3,0.492675,0.0993605,3.0359,0.6367,0.6522
+Sweden,8,15,Niklas Edin,Hit-roll,CCW,3,0.47139,0.0729935,3.17613,0.6522,0.67
+United States of America,8,16,John Shuster,Double,CCW,4,0.558264,0.222114,2.53059,0.67,0.7333
+United States of America,9,1,John Landsteiner,Through,NA,NA,NA,NA,NA,0.9988,0.9987
+Sweden,9,2,Christoffer Sundgren,Front,CW,4,0.875072,0.0557537,3.76805,0.9987,0.9988
+United States of America,9,3,John Landsteiner,Wick,CW,0,0.364562,0.513449,1.3831,0.9988,0.9988
+Sweden,9,4,Christoffer Sundgren,Front,CCW,4,0.807021,0.0544755,3.74131,0.9988,0.999
+United States of America,9,5,Matt Hamilton,Clearing,CCW,4,0.883205,0.034167,3.6554,0.999,0.9991
+Sweden,9,6,Rasmus Wranå,Front,CW,4,0.804207,0.0404256,3.74092,0.9991,0.9993
+United States of America,9,7,Matt Hamilton,Clearing,CCW,4,0.898393,0.0357995,3.73095,0.9993,0.9993
+Sweden,9,8,Rasmus Wranå,Draw,CCW,3,0.570151,0.0684726,3.13265,0.9993,0.999
+United States of America,9,9,Tyler George,Clearing,CCW,4,0.884379,0.0381128,3.7102,0.999,0.9992
+Sweden,9,10,Oskar Eriksson,Draw,CCW,0,0.57349,0.0672027,3.12558,0.9992,0.9993
+United States of America,9,11,Tyler George,Clearing,CW,1,0.859851,0.0373238,3.71811,0.9993,0.9982
+Sweden,9,12,Oskar Eriksson,Draw,CCW,4,0.622337,0.0593125,3.10943,0.9982,0.9971
+United States of America,9,13,John Shuster,Clearing,CW,4,0.891303,0.0439988,3.77303,0.9971,0.9976
+Sweden,9,14,Niklas Edin,Draw,CW,4,0.59698,0.0849522,3.08502,0.9976,0.9972
+United States of America,9,15,John Shuster,Hit-roll,CCW,2,0.476888,0.0821143,3.05937,0.9972,0.9952
+Sweden,9,16,Niklas Edin,Draw,CCW,4,0.833029,0.102857,3.58058,0.9952,0.9947
+Sweden,10,1,Christoffer Sundgren,Front,CW,4,0.83524,0.0457942,3.66518,0.9951,0.9949
+United States of America,10,2,John Landsteiner,Wick,CCW,0,0.579226,0.240971,2.5852,0.9949,0.9944
+Sweden,10,3,Christoffer Sundgren,Front,CW,4,0.797608,0.0449485,3.57011,0.9944,0.994
+United States of America,10,4,John Landsteiner,Through,NA,NA,NA,NA,NA,0.994,0.9928
+Sweden,10,5,Rasmus Wranå,Draw,CW,4,0.599245,0.0658863,3.22707,0.9928,0.9918
+United States of America,10,6,Matt Hamilton,Clearing,CCW,4,0.865108,0.0356949,3.67734,0.9918,0.992
+Sweden,10,7,Rasmus Wranå,Guard,CW,4,0.735584,0.0339766,3.55394,0.992,0.9922
+United States of America,10,8,Matt Hamilton,Clearing,CCW,4,0.881647,0.0304154,3.77837,0.9922,0.992
+Sweden,10,9,Oskar Eriksson,Guard,CW,4,0.730461,0.0333153,3.60875,0.992,0.9912
+United States of America,10,10,Tyler George,Clearing,CCW,4,0.871039,0.0343578,3.68184,0.9912,0.9915
+Sweden,10,11,Oskar Eriksson,Guard,CW,4,0.757776,0.0280495,3.69579,0.9915,0.9912
+United States of America,10,12,Tyler George,Clearing,CCW,4,0.890816,0.0321633,3.77386,0.9912,0.9928
+Sweden,10,13,Niklas Edin,Draw,CCW,3,0.587512,0.0893517,3.11374,0.9928,0.9918
+NA,10,14,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,15,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,16,NA,NA,NA,NA,NA,NA,NA,NA,NA
