@@ -1,3 +1,6 @@
+install.packages("tidyverse")
+install.packages("jsonlite")
+install.packages("rvest")
 library(tidyverse)
 library(jsonlite)
 library(rvest)
